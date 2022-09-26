@@ -776,18 +776,7 @@ body {
   .gallery .right {
     display: block;
     /*CSS transitions*/
-    -o-transition-property: none;
-    -moz-transition-property: none;
-    -ms-transition-property: none;
-    -webkit-transition-property: none;
-    transition-property: none;
-    /*CSS transforms*/
-    /*CSS animations*/
-    -webkit-animation: none;
-    -moz-animation: none;
-    -o-animation: none;
-    -ms-animation: none;
-    animation: none;
+
     position: absolute;
     right: -11vh;
   }
@@ -801,18 +790,6 @@ body {
     position: absolute;
     left: -11vh;
     /*CSS transitions*/
-    -o-transition-property: none;
-    -moz-transition-property: none;
-    -ms-transition-property: none;
-    -webkit-transition-property: none;
-    transition-property: none;
-    /*CSS transforms*/
-    /*CSS animations*/
-    -webkit-animation: none;
-    -moz-animation: none;
-    -o-animation: none;
-    -ms-animation: none;
-    animation: none;
   }
   .gallery .left div {
     position: relative;
